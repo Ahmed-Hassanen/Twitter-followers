@@ -63,7 +63,7 @@ int main()
     }
     // sort them
     sort(ans.rbegin(),ans.rend());
-   //  write();
+     write();
 
     return 0;
 }
